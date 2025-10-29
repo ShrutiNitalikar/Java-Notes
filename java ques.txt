@@ -1,0 +1,17 @@
+//Q1 design java application
+//create a class, movie to store following details:
+//movieid, mname, duration, actor, actress, date of release,
+//movie are of two types 
+//ShortMovies, Bollywood movies
+//for shortmovies store, Duration and topic
+//for bollywood movies no. of songs and singer
+//store details of movies in hash set, two movies cannot have same movieid
+//Display following menu using switch
+//1. Add new Movie--Add new Movie
+//2.Delete Movie-- accept movieid, and delete the movie from the set
+//3.Display all movie of given type-- accept type
+//4.exit
+
+
+https://github.com/sumitn071201-pixel/Assignments-and-Notes/blob/main/Module%20Tests/JAVA/Q2/src/com/demo/AcceptStrings.java
+//Q2 Design Java Application to Accept strings from the user and store it in a arraylist. Find all strings which start with A, store them in list2(Note use filter function to find the strings) write all strings from list2 in a file data.txt, one string on each line
